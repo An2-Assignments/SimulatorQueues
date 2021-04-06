@@ -1,0 +1,327 @@
+Logul are aceste date de intrare: 
+
+   Time limit: 60
+   Timp procesare maxim: 4
+   Timp procesare minim: 2
+   Timp ajungere maxim: 30
+   Timp ajungere minim: 2
+   Numarul de clienti: 4
+   Numarul de servere: 2 :
+
+
+Current time 0 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Clientul 2 are arrival time 6 si processing time 3;
+Lista terminata.
+
+
+Current time 1 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Clientul 2 are arrival time 6 si processing time 3;
+Lista terminata.
+
+
+Current time 2 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Clientul 2 are arrival time 6 si processing time 3;
+Lista terminata.
+
+
+Current time 3 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Clientul 2 are arrival time 6 si processing time 3;
+Lista terminata.
+
+
+Current time 4 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Clientul 2 are arrival time 6 si processing time 3;
+Lista terminata.
+
+
+Current time 5 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Clientul 2 are arrival time 6 si processing time 3;
+Lista terminata.
+
+
+Current time 6 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 2, are Arrival Time: 6 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Lista terminata.
+
+
+Current time 7 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 2, are Arrival Time: 6 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Lista terminata.
+
+
+Current time 8 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 2, are Arrival Time: 6 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Lista terminata.
+
+
+Current time 9 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Clientul 4 are arrival time 10 si processing time 2;
+Lista terminata.
+
+
+Current time 10 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 4, are Arrival Time: 10 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Lista terminata.
+
+
+Current time 11 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 4, are Arrival Time: 10 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Clientul 1 are arrival time 12 si processing time 4;
+Lista terminata.
+
+
+Current time 12 :
+Serverul 1, are Waiting Time: 4)
+
+La acest server avem: Clientul 1, are Arrival Time: 12 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Lista terminata.
+
+
+Current time 13 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 1, are Arrival Time: 12 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Lista terminata.
+
+
+Current time 14 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 1, are Arrival Time: 12 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 3 are arrival time 15 si processing time 2;
+Lista terminata.
+
+
+Current time 15 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 1, are Arrival Time: 12 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 2)
+
+La acest server avem: Clientul 3, are Arrival Time: 15 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 16 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 3, are Arrival Time: 15 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Average timpul de service: 2.75 ;
+Peak hour : 2 ;
+Average timpul de waiting: 0.0 ;
+
+
+
+Finalul logului.

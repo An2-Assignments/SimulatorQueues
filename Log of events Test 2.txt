@@ -1,0 +1,2777 @@
+Logul are aceste date de intrare: 
+
+   Time limit: 60
+   Timp procesare maxim: 7
+   Timp procesare minim: 1
+   Timp ajungere maxim: 40
+   Timp ajungere minim: 2
+   Numarul de clienti: 50
+   Numarul de servere: 5 :
+
+
+Current time 0 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Clientul 30 are arrival time 6 si processing time 2;
+Clientul 5 are arrival time 3 si processing time 4;
+Clientul 15 are arrival time 2 si processing time 2;
+Lista terminata.
+
+
+Current time 1 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Clientul 30 are arrival time 6 si processing time 2;
+Clientul 5 are arrival time 3 si processing time 4;
+Clientul 15 are arrival time 2 si processing time 2;
+Lista terminata.
+
+
+Current time 2 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Clientul 30 are arrival time 6 si processing time 2;
+Clientul 5 are arrival time 3 si processing time 4;
+Lista terminata.
+
+
+Current time 3 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 4)
+
+La acest server avem: Clientul 5, are Arrival Time: 3 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Clientul 30 are arrival time 6 si processing time 2;
+Lista terminata.
+
+
+Current time 4 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 3)
+
+La acest server avem: Clientul 5, are Arrival Time: 3 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Clientul 30 are arrival time 6 si processing time 2;
+Lista terminata.
+
+
+Current time 5 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 2)
+
+La acest server avem: Clientul 5, are Arrival Time: 3 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Clientul 30 are arrival time 6 si processing time 2;
+Lista terminata.
+
+
+Current time 6 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 30, are Arrival Time: 6 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 5, are Arrival Time: 3 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Clientul 35 are arrival time 7 si processing time 2;
+Clientul 43 are arrival time 7 si processing time 3;
+Lista terminata.
+
+
+Current time 7 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 30, are Arrival Time: 6 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 3)
+
+La acest server avem: Clientul 43, are Arrival Time: 7 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 2)
+
+La acest server avem: Clientul 35, are Arrival Time: 7 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Clientul 2 are arrival time 8 si processing time 5;
+Clientul 8 are arrival time 8 si processing time 6;
+Lista terminata.
+
+
+Current time 8 :
+Serverul 1, are Waiting Time: 6)
+
+La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 2)
+
+La acest server avem: Clientul 43, are Arrival Time: 7 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 1)
+
+La acest server avem: Clientul 35, are Arrival Time: 7 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 5)
+
+La acest server avem: Clientul 2, are Arrival Time: 8 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Clientul 10 are arrival time 9 si processing time 2;
+Clientul 42 are arrival time 9 si processing time 5;
+Lista terminata.
+
+
+Current time 9 :
+Serverul 1, are Waiting Time: 5)
+
+La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 43, are Arrival Time: 7 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 5)
+
+La acest server avem: Clientul 42, are Arrival Time: 9 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 4)
+
+La acest server avem: Clientul 2, are Arrival Time: 8 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 2)
+
+La acest server avem: Clientul 10, are Arrival Time: 9 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Clientul 31 are arrival time 10 si processing time 6;
+Clientul 46 are arrival time 10 si processing time 7;
+Lista terminata.
+
+
+Current time 10 :
+Serverul 1, are Waiting Time: 4)
+
+La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 7)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 4)
+
+La acest server avem: Clientul 42, are Arrival Time: 9 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 3)
+
+La acest server avem: Clientul 2, are Arrival Time: 8 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 7)
+
+La acest server avem: Clientul 10, are Arrival Time: 9 si Processing Time: 1 ;
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Clientul 3 are arrival time 11 si processing time 6;
+Lista terminata.
+
+
+Current time 11 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 6)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 3)
+
+La acest server avem: Clientul 42, are Arrival Time: 9 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 8)
+
+La acest server avem: Clientul 2, are Arrival Time: 8 si Processing Time: 2 ;
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 6)
+
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Clientul 34 are arrival time 12 si processing time 1;
+Lista terminata.
+
+
+Current time 12 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 2 ;
+La acest server avem: Clientul 34, are Arrival Time: 12 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 5)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 2)
+
+La acest server avem: Clientul 42, are Arrival Time: 9 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 7)
+
+La acest server avem: Clientul 2, are Arrival Time: 8 si Processing Time: 1 ;
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 5)
+
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Clientul 17 are arrival time 13 si processing time 3;
+Clientul 29 are arrival time 13 si processing time 6;
+Lista terminata.
+
+
+Current time 13 :
+Serverul 1, are Waiting Time: 5)
+
+La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 1 ;
+La acest server avem: Clientul 34, are Arrival Time: 12 si Processing Time: 1 ;
+La acest server avem: Clientul 17, are Arrival Time: 13 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 4)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 7)
+
+La acest server avem: Clientul 42, are Arrival Time: 9 si Processing Time: 1 ;
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 6)
+
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 4)
+
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Clientul 14 are arrival time 14 si processing time 5;
+Lista terminata.
+
+
+Current time 14 :
+Serverul 1, are Waiting Time: 4)
+
+La acest server avem: Clientul 34, are Arrival Time: 12 si Processing Time: 1 ;
+La acest server avem: Clientul 17, are Arrival Time: 13 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 8)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 3 ;
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 6)
+
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 5)
+
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 3)
+
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Lista terminata.
+
+
+Current time 15 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 17, are Arrival Time: 13 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 7)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 2 ;
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 5)
+
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 4)
+
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 2)
+
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Clientul 19 are arrival time 16 si processing time 2;
+Lista terminata.
+
+
+Current time 16 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 17, are Arrival Time: 13 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 6)
+
+La acest server avem: Clientul 46, are Arrival Time: 10 si Processing Time: 1 ;
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 4)
+
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 3)
+
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 3)
+
+La acest server avem: Clientul 31, are Arrival Time: 10 si Processing Time: 1 ;
+La acest server avem: Clientul 19, are Arrival Time: 16 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Lista terminata.
+
+
+Current time 17 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 17, are Arrival Time: 13 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 5)
+
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 3)
+
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 2)
+
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 2)
+
+La acest server avem: Clientul 19, are Arrival Time: 16 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Lista terminata.
+
+
+Current time 18 :
+Serverul 1, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 4)
+
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 2)
+
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 1)
+
+La acest server avem: Clientul 3, are Arrival Time: 11 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 1)
+
+La acest server avem: Clientul 19, are Arrival Time: 16 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Clientul 4 are arrival time 19 si processing time 2;
+Clientul 21 are arrival time 19 si processing time 5;
+Clientul 26 are arrival time 19 si processing time 7;
+Lista terminata.
+
+
+Current time 19 :
+Serverul 1, are Waiting Time: 7)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 3)
+
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 1)
+
+La acest server avem: Clientul 29, are Arrival Time: 13 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 5)
+
+La acest server avem: Clientul 21, are Arrival Time: 19 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 2)
+
+La acest server avem: Clientul 4, are Arrival Time: 19 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Lista terminata.
+
+
+Current time 20 :
+Serverul 1, are Waiting Time: 6)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 2)
+
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 4)
+
+La acest server avem: Clientul 21, are Arrival Time: 19 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 1)
+
+La acest server avem: Clientul 4, are Arrival Time: 19 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Lista terminata.
+
+
+Current time 21 :
+Serverul 1, are Waiting Time: 5)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 14, are Arrival Time: 14 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 3)
+
+La acest server avem: Clientul 21, are Arrival Time: 19 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Clientul 12 are arrival time 22 si processing time 6;
+Clientul 16 are arrival time 22 si processing time 1;
+Lista terminata.
+
+
+Current time 22 :
+Serverul 1, are Waiting Time: 4)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 16, are Arrival Time: 22 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 6)
+
+La acest server avem: Clientul 12, are Arrival Time: 22 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 2)
+
+La acest server avem: Clientul 21, are Arrival Time: 19 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Clientul 1 are arrival time 23 si processing time 4;
+Clientul 27 are arrival time 23 si processing time 1;
+Lista terminata.
+
+
+Current time 23 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 27, are Arrival Time: 23 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 5)
+
+La acest server avem: Clientul 12, are Arrival Time: 22 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 1)
+
+La acest server avem: Clientul 21, are Arrival Time: 19 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 4)
+
+La acest server avem: Clientul 1, are Arrival Time: 23 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Clientul 7 are arrival time 24 si processing time 7;
+Clientul 28 are arrival time 24 si processing time 5;
+Clientul 39 are arrival time 24 si processing time 3;
+Lista terminata.
+
+
+Current time 24 :
+Serverul 1, are Waiting Time: 9)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 2 ;
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 3)
+
+La acest server avem: Clientul 39, are Arrival Time: 24 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 4)
+
+La acest server avem: Clientul 12, are Arrival Time: 22 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 5)
+
+La acest server avem: Clientul 28, are Arrival Time: 24 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 3)
+
+La acest server avem: Clientul 1, are Arrival Time: 23 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Lista terminata.
+
+
+Current time 25 :
+Serverul 1, are Waiting Time: 8)
+
+La acest server avem: Clientul 26, are Arrival Time: 19 si Processing Time: 1 ;
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 2)
+
+La acest server avem: Clientul 39, are Arrival Time: 24 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 3)
+
+La acest server avem: Clientul 12, are Arrival Time: 22 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 4)
+
+La acest server avem: Clientul 28, are Arrival Time: 24 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 2)
+
+La acest server avem: Clientul 1, are Arrival Time: 23 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Clientul 13 are arrival time 26 si processing time 1;
+Clientul 36 are arrival time 26 si processing time 7;
+Clientul 38 are arrival time 26 si processing time 7;
+Clientul 49 are arrival time 26 si processing time 3;
+Lista terminata.
+
+
+Current time 26 :
+Serverul 1, are Waiting Time: 7)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 4)
+
+La acest server avem: Clientul 39, are Arrival Time: 24 si Processing Time: 1 ;
+La acest server avem: Clientul 49, are Arrival Time: 26 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 9)
+
+La acest server avem: Clientul 12, are Arrival Time: 22 si Processing Time: 2 ;
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 4)
+
+La acest server avem: Clientul 28, are Arrival Time: 24 si Processing Time: 3 ;
+La acest server avem: Clientul 13, are Arrival Time: 26 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 8)
+
+La acest server avem: Clientul 1, are Arrival Time: 23 si Processing Time: 1 ;
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Clientul 33 are arrival time 27 si processing time 3;
+Clientul 47 are arrival time 27 si processing time 4;
+Lista terminata.
+
+
+Current time 27 :
+Serverul 1, are Waiting Time: 6)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 7)
+
+La acest server avem: Clientul 49, are Arrival Time: 26 si Processing Time: 3 ;
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 8)
+
+La acest server avem: Clientul 12, are Arrival Time: 22 si Processing Time: 1 ;
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 6)
+
+La acest server avem: Clientul 28, are Arrival Time: 24 si Processing Time: 2 ;
+La acest server avem: Clientul 13, are Arrival Time: 26 si Processing Time: 1 ;
+La acest server avem: Clientul 33, are Arrival Time: 27 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 7)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Lista terminata.
+
+
+Current time 28 :
+Serverul 1, are Waiting Time: 5)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 6)
+
+La acest server avem: Clientul 49, are Arrival Time: 26 si Processing Time: 2 ;
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 7)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 5)
+
+La acest server avem: Clientul 28, are Arrival Time: 24 si Processing Time: 1 ;
+La acest server avem: Clientul 13, are Arrival Time: 26 si Processing Time: 1 ;
+La acest server avem: Clientul 33, are Arrival Time: 27 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 6)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Clientul 18 are arrival time 29 si processing time 4;
+Clientul 20 are arrival time 29 si processing time 3;
+Clientul 23 are arrival time 29 si processing time 1;
+Clientul 41 are arrival time 29 si processing time 6;
+Lista terminata.
+
+
+Current time 29 :
+Serverul 1, are Waiting Time: 10)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 4 ;
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 8)
+
+La acest server avem: Clientul 49, are Arrival Time: 26 si Processing Time: 1 ;
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 4 ;
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 6)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 9)
+
+La acest server avem: Clientul 13, are Arrival Time: 26 si Processing Time: 1 ;
+La acest server avem: Clientul 33, are Arrival Time: 27 si Processing Time: 3 ;
+La acest server avem: Clientul 23, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 5)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Clientul 11 are arrival time 30 si processing time 2;
+Clientul 22 are arrival time 30 si processing time 6;
+Clientul 37 are arrival time 30 si processing time 6;
+Clientul 48 are arrival time 30 si processing time 3;
+Lista terminata.
+
+
+Current time 30 :
+Serverul 1, are Waiting Time: 9)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 3 ;
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 13)
+
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 4 ;
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 11)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 5 ;
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 8)
+
+La acest server avem: Clientul 33, are Arrival Time: 27 si Processing Time: 3 ;
+La acest server avem: Clientul 23, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 9)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 4 ;
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Clientul 24 are arrival time 31 si processing time 5;
+Clientul 32 are arrival time 31 si processing time 1;
+Lista terminata.
+
+
+Current time 31 :
+Serverul 1, are Waiting Time: 13)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 2 ;
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 6 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 12)
+
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 10)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 4 ;
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 8)
+
+La acest server avem: Clientul 33, are Arrival Time: 27 si Processing Time: 2 ;
+La acest server avem: Clientul 23, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 4 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 8)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 3 ;
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Clientul 45 are arrival time 32 si processing time 4;
+Lista terminata.
+
+
+Current time 32 :
+Serverul 1, are Waiting Time: 12)
+
+La acest server avem: Clientul 7, are Arrival Time: 24 si Processing Time: 1 ;
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 6 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 11)
+
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 2 ;
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 9)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 3 ;
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 11)
+
+La acest server avem: Clientul 33, are Arrival Time: 27 si Processing Time: 1 ;
+La acest server avem: Clientul 23, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 4 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 7)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 2 ;
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Clientul 6 are arrival time 33 si processing time 7;
+Lista terminata.
+
+
+Current time 33 :
+Serverul 1, are Waiting Time: 11)
+
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 6 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 10)
+
+La acest server avem: Clientul 47, are Arrival Time: 27 si Processing Time: 1 ;
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 8)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 2 ;
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 10)
+
+La acest server avem: Clientul 23, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 4 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 13)
+
+La acest server avem: Clientul 38, are Arrival Time: 26 si Processing Time: 1 ;
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Lista terminata.
+
+
+Current time 34 :
+Serverul 1, are Waiting Time: 10)
+
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 5 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 9)
+
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 7)
+
+La acest server avem: Clientul 36, are Arrival Time: 26 si Processing Time: 1 ;
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 9)
+
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 4 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 12)
+
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Clientul 9 are arrival time 35 si processing time 7;
+Clientul 25 are arrival time 35 si processing time 1;
+Clientul 40 are arrival time 35 si processing time 2;
+Lista terminata.
+
+
+Current time 35 :
+Serverul 1, are Waiting Time: 9)
+
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 4 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 9)
+
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 2 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 15)
+
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 6 ;
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 8)
+
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 11)
+
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Lista terminata.
+
+
+Current time 36 :
+Serverul 1, are Waiting Time: 8)
+
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 3 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 8)
+
+La acest server avem: Clientul 20, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 14)
+
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 5 ;
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 7)
+
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 2 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 10)
+
+La acest server avem: Clientul 48, are Arrival Time: 30 si Processing Time: 1 ;
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Lista terminata.
+
+
+Current time 37 :
+Serverul 1, are Waiting Time: 7)
+
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 2 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 7)
+
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 6 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 13)
+
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 4 ;
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 6)
+
+La acest server avem: Clientul 18, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 9)
+
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Clientul 50 are arrival time 38 si processing time 4;
+Lista terminata.
+
+
+Current time 38 :
+Serverul 1, are Waiting Time: 6)
+
+La acest server avem: Clientul 41, are Arrival Time: 29 si Processing Time: 1 ;
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 6)
+
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 5 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 12)
+
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 9)
+
+La acest server avem: Clientul 32, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 8)
+
+La acest server avem: Clientul 11, are Arrival Time: 30 si Processing Time: 1 ;
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Lista terminata.
+
+
+Current time 39 :
+Serverul 1, are Waiting Time: 5)
+
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 5)
+
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 4 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 11)
+
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 8)
+
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 4 ;
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 7)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Clientul 44 are arrival time 40 si processing time 6;
+Lista terminata.
+
+
+Current time 40 :
+Serverul 1, are Waiting Time: 10)
+
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 4 ;
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 4)
+
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 3 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 10)
+
+La acest server avem: Clientul 37, are Arrival Time: 30 si Processing Time: 1 ;
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 7)
+
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 3 ;
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 6)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 41 :
+Serverul 1, are Waiting Time: 9)
+
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 3 ;
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 3)
+
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 2 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 9)
+
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 6)
+
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 2 ;
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 5)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 42 :
+Serverul 1, are Waiting Time: 8)
+
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 2 ;
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 2)
+
+La acest server avem: Clientul 22, are Arrival Time: 30 si Processing Time: 1 ;
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 8)
+
+La acest server avem: Clientul 40, are Arrival Time: 35 si Processing Time: 1 ;
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 5)
+
+La acest server avem: Clientul 45, are Arrival Time: 32 si Processing Time: 1 ;
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 4)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 43 :
+Serverul 1, are Waiting Time: 7)
+
+La acest server avem: Clientul 24, are Arrival Time: 31 si Processing Time: 1 ;
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 1)
+
+La acest server avem: Clientul 25, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 7)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 7 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 4)
+
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 3)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 44 :
+Serverul 1, are Waiting Time: 6)
+
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 6)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 6 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 3)
+
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 2)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 45 :
+Serverul 1, are Waiting Time: 5)
+
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 5)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 5 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 2)
+
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 1)
+
+La acest server avem: Clientul 6, are Arrival Time: 33 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 46 :
+Serverul 1, are Waiting Time: 4)
+
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 4)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 4 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 1)
+
+La acest server avem: Clientul 50, are Arrival Time: 38 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 47 :
+Serverul 1, are Waiting Time: 3)
+
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 3)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 3 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 48 :
+Serverul 1, are Waiting Time: 2)
+
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 2)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 2 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Current time 49 :
+Serverul 1, are Waiting Time: 1)
+
+La acest server avem: Clientul 44, are Arrival Time: 40 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 2, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 3, are Waiting Time: 1)
+
+La acest server avem: Clientul 9, are Arrival Time: 35 si Processing Time: 1 ;
+-------------------------------------------------------------------------
+
+Serverul 4, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Serverul 5, are Waiting Time: 0)
+
+-------------------------------------------------------------------------
+
+Servere terminate.
+
+Lista actuala de clienti ce nu au intrat pe servere:
+Lista terminata.
+
+
+Average timpul de service: 4.02 ;
+Peak hour : 16 ;
+Average timpul de waiting: 2.54 ;
+
+
+
+Finalul logului.
