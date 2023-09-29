@@ -1,9 +1,9 @@
 Logul are aceste date de intrare: 
 
-   Time limit: 40
-   Timp procesare maxim: 15
-   Timp procesare minim: 3
-   Timp ajungere maxim: 15
+   Time limit: 20
+   Timp procesare maxim: 5
+   Timp procesare minim: 2
+   Timp ajungere maxim: 5
    Timp ajungere minim: 2
    Numarul de clienti: 20
    Numarul de servere: 3 :
@@ -27,26 +27,26 @@ Serverul 3, are Waiting Time: 0)
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
-Clientul 4 are arrival time 6 si processing time 8;
-Clientul 10 are arrival time 5 si processing time 8;
-Clientul 9 are arrival time 4 si processing time 4;
-Clientul 12 are arrival time 4 si processing time 14;
-Clientul 19 are arrival time 4 si processing time 3;
-Clientul 5 are arrival time 2 si processing time 11;
-Clientul 16 are arrival time 2 si processing time 10;
-Clientul 17 are arrival time 2 si processing time 11;
+Clientul 4 are arrival time 5 si processing time 3;
+Clientul 19 are arrival time 5 si processing time 5;
+Clientul 20 are arrival time 5 si processing time 2;
+Clientul 2 are arrival time 4 si processing time 4;
+Clientul 5 are arrival time 4 si processing time 2;
+Clientul 9 are arrival time 4 si processing time 3;
+Clientul 12 are arrival time 4 si processing time 5;
+Clientul 14 are arrival time 4 si processing time 2;
+Clientul 1 are arrival time 3 si processing time 4;
+Clientul 3 are arrival time 3 si processing time 4;
+Clientul 7 are arrival time 3 si processing time 3;
+Clientul 10 are arrival time 3 si processing time 5;
+Clientul 11 are arrival time 3 si processing time 2;
+Clientul 17 are arrival time 3 si processing time 4;
+Clientul 18 are arrival time 3 si processing time 4;
+Clientul 6 are arrival time 2 si processing time 2;
+Clientul 8 are arrival time 2 si processing time 3;
+Clientul 13 are arrival time 2 si processing time 5;
+Clientul 15 are arrival time 2 si processing time 5;
+Clientul 16 are arrival time 2 si processing time 2;
 Lista terminata.
 
 
@@ -68,584 +68,531 @@ Serverul 3, are Waiting Time: 0)
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
-Clientul 4 are arrival time 6 si processing time 8;
-Clientul 10 are arrival time 5 si processing time 8;
-Clientul 9 are arrival time 4 si processing time 4;
-Clientul 12 are arrival time 4 si processing time 14;
-Clientul 19 are arrival time 4 si processing time 3;
-Clientul 5 are arrival time 2 si processing time 11;
-Clientul 16 are arrival time 2 si processing time 10;
-Clientul 17 are arrival time 2 si processing time 11;
+Clientul 4 are arrival time 5 si processing time 3;
+Clientul 19 are arrival time 5 si processing time 5;
+Clientul 20 are arrival time 5 si processing time 2;
+Clientul 2 are arrival time 4 si processing time 4;
+Clientul 5 are arrival time 4 si processing time 2;
+Clientul 9 are arrival time 4 si processing time 3;
+Clientul 12 are arrival time 4 si processing time 5;
+Clientul 14 are arrival time 4 si processing time 2;
+Clientul 1 are arrival time 3 si processing time 4;
+Clientul 3 are arrival time 3 si processing time 4;
+Clientul 7 are arrival time 3 si processing time 3;
+Clientul 10 are arrival time 3 si processing time 5;
+Clientul 11 are arrival time 3 si processing time 2;
+Clientul 17 are arrival time 3 si processing time 4;
+Clientul 18 are arrival time 3 si processing time 4;
+Clientul 6 are arrival time 2 si processing time 2;
+Clientul 8 are arrival time 2 si processing time 3;
+Clientul 13 are arrival time 2 si processing time 5;
+Clientul 15 are arrival time 2 si processing time 5;
+Clientul 16 are arrival time 2 si processing time 2;
 Lista terminata.
 
 
 Current time 2 :
 
 
-Serverul 1, are Waiting Time: 11)
+Serverul 1, are Waiting Time: 7)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 11 ;
+La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 8, are Arrival Time: 2 si Processing Time: 3 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 2 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 10)
+Serverul 2, are Waiting Time: 5)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 10 ;
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 11)
+Serverul 3, are Waiting Time: 5)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 11 ;
+La acest server avem: Clientul 13, are Arrival Time: 2 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
-Clientul 4 are arrival time 6 si processing time 8;
-Clientul 10 are arrival time 5 si processing time 8;
-Clientul 9 are arrival time 4 si processing time 4;
-Clientul 12 are arrival time 4 si processing time 14;
-Clientul 19 are arrival time 4 si processing time 3;
+Clientul 4 are arrival time 5 si processing time 3;
+Clientul 19 are arrival time 5 si processing time 5;
+Clientul 20 are arrival time 5 si processing time 2;
+Clientul 2 are arrival time 4 si processing time 4;
+Clientul 5 are arrival time 4 si processing time 2;
+Clientul 9 are arrival time 4 si processing time 3;
+Clientul 12 are arrival time 4 si processing time 5;
+Clientul 14 are arrival time 4 si processing time 2;
+Clientul 1 are arrival time 3 si processing time 4;
+Clientul 3 are arrival time 3 si processing time 4;
+Clientul 7 are arrival time 3 si processing time 3;
+Clientul 10 are arrival time 3 si processing time 5;
+Clientul 11 are arrival time 3 si processing time 2;
+Clientul 17 are arrival time 3 si processing time 4;
+Clientul 18 are arrival time 3 si processing time 4;
 Lista terminata.
 
 
 Current time 3 :
 
 
-Serverul 1, are Waiting Time: 10)
+Serverul 1, are Waiting Time: 13)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 10 ;
+La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 1 ;
+La acest server avem: Clientul 8, are Arrival Time: 2 si Processing Time: 3 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 9)
+Serverul 2, are Waiting Time: 15)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 9 ;
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 4 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 10)
+Serverul 3, are Waiting Time: 12)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 10 ;
+La acest server avem: Clientul 13, are Arrival Time: 2 si Processing Time: 4 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
-Clientul 4 are arrival time 6 si processing time 8;
-Clientul 10 are arrival time 5 si processing time 8;
-Clientul 9 are arrival time 4 si processing time 4;
-Clientul 12 are arrival time 4 si processing time 14;
-Clientul 19 are arrival time 4 si processing time 3;
+Clientul 4 are arrival time 5 si processing time 3;
+Clientul 19 are arrival time 5 si processing time 5;
+Clientul 20 are arrival time 5 si processing time 2;
+Clientul 2 are arrival time 4 si processing time 4;
+Clientul 5 are arrival time 4 si processing time 2;
+Clientul 9 are arrival time 4 si processing time 3;
+Clientul 12 are arrival time 4 si processing time 5;
+Clientul 14 are arrival time 4 si processing time 2;
 Lista terminata.
 
 
 Current time 4 :
 
 
-Serverul 1, are Waiting Time: 23)
+Serverul 1, are Waiting Time: 17)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 9 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
+La acest server avem: Clientul 8, are Arrival Time: 2 si Processing Time: 3 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 11)
+Serverul 2, are Waiting Time: 20)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 8 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 3 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 13)
+Serverul 3, are Waiting Time: 16)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 9 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
+La acest server avem: Clientul 13, are Arrival Time: 2 si Processing Time: 3 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
-Clientul 4 are arrival time 6 si processing time 8;
-Clientul 10 are arrival time 5 si processing time 8;
+Clientul 4 are arrival time 5 si processing time 3;
+Clientul 19 are arrival time 5 si processing time 5;
+Clientul 20 are arrival time 5 si processing time 2;
 Lista terminata.
 
 
 Current time 5 :
 
 
-Serverul 1, are Waiting Time: 22)
+Serverul 1, are Waiting Time: 21)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 8 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
+La acest server avem: Clientul 8, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 18)
+Serverul 2, are Waiting Time: 19)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 7 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 12)
+Serverul 3, are Waiting Time: 20)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 8 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
+La acest server avem: Clientul 13, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
-Clientul 4 are arrival time 6 si processing time 8;
 Lista terminata.
 
 
 Current time 6 :
 
 
-Serverul 1, are Waiting Time: 21)
+Serverul 1, are Waiting Time: 20)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 7 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
+La acest server avem: Clientul 8, are Arrival Time: 2 si Processing Time: 1 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 17)
+Serverul 2, are Waiting Time: 18)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 6 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
+La acest server avem: Clientul 15, are Arrival Time: 2 si Processing Time: 1 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
 Serverul 3, are Waiting Time: 19)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 7 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
+La acest server avem: Clientul 13, are Arrival Time: 2 si Processing Time: 1 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
-Clientul 18 are arrival time 7 si processing time 10;
 Lista terminata.
 
 
 Current time 7 :
 
 
-Serverul 1, are Waiting Time: 20)
+Serverul 1, are Waiting Time: 19)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 6 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 2 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 26)
+Serverul 2, are Waiting Time: 17)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 5 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
 Serverul 3, are Waiting Time: 18)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 6 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
-Clientul 8 are arrival time 8 si processing time 12;
 Lista terminata.
 
 
 Current time 8 :
 
 
-Serverul 1, are Waiting Time: 19)
+Serverul 1, are Waiting Time: 18)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 5 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
+La acest server avem: Clientul 6, are Arrival Time: 2 si Processing Time: 1 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 25)
+Serverul 2, are Waiting Time: 16)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 4 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 29)
+Serverul 3, are Waiting Time: 17)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 5 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
-Clientul 7 are arrival time 9 si processing time 6;
-Clientul 15 are arrival time 9 si processing time 14;
 Lista terminata.
 
 
 Current time 9 :
 
 
-Serverul 1, are Waiting Time: 32)
+Serverul 1, are Waiting Time: 17)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 4 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 30)
+Serverul 2, are Waiting Time: 15)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 3 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 28)
+Serverul 3, are Waiting Time: 16)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 4 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
-Clientul 2 are arrival time 10 si processing time 8;
-Clientul 11 are arrival time 10 si processing time 13;
 Lista terminata.
 
 
 Current time 10 :
 
 
-Serverul 1, are Waiting Time: 31)
+Serverul 1, are Waiting Time: 16)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 3 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
+La acest server avem: Clientul 11, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 37)
+Serverul 2, are Waiting Time: 14)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 2 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
+La acest server avem: Clientul 18, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 40)
+Serverul 3, are Waiting Time: 15)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 3 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
+La acest server avem: Clientul 17, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
 Lista terminata.
 
 
 Current time 11 :
 
 
-Serverul 1, are Waiting Time: 30)
+Serverul 1, are Waiting Time: 15)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 2 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 5 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 36)
+Serverul 2, are Waiting Time: 13)
 
-La acest server avem: Clientul 16, are Arrival Time: 2 si Processing Time: 1 ;
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 39)
+Serverul 3, are Waiting Time: 14)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 2 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
-Clientul 20 are arrival time 12 si processing time 10;
 Lista terminata.
 
 
 Current time 12 :
 
 
-Serverul 1, are Waiting Time: 39)
+Serverul 1, are Waiting Time: 14)
 
-La acest server avem: Clientul 17, are Arrival Time: 2 si Processing Time: 1 ;
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 35)
+Serverul 2, are Waiting Time: 12)
 
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 38)
+Serverul 3, are Waiting Time: 13)
 
-La acest server avem: Clientul 5, are Arrival Time: 2 si Processing Time: 1 ;
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
-Clientul 3 are arrival time 13 si processing time 15;
-Clientul 14 are arrival time 13 si processing time 6;
 Lista terminata.
 
 
 Current time 13 :
 
 
-Serverul 1, are Waiting Time: 38)
+Serverul 1, are Waiting Time: 13)
 
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 14 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 40)
+Serverul 2, are Waiting Time: 11)
 
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 2 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
+La acest server avem: Clientul 7, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 52)
+Serverul 3, are Waiting Time: 12)
 
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
 Lista terminata.
 
 
 Current time 14 :
 
 
-Serverul 1, are Waiting Time: 37)
+Serverul 1, are Waiting Time: 12)
 
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 13 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 39)
+Serverul 2, are Waiting Time: 10)
 
-La acest server avem: Clientul 19, are Arrival Time: 4 si Processing Time: 1 ;
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 4 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 51)
+Serverul 3, are Waiting Time: 11)
 
+La acest server avem: Clientul 3, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
 La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
 
 Lista actuala de clienti ce nu au intrat pe servere:
-Clientul 1 are arrival time 15 si processing time 3;
-Clientul 6 are arrival time 15 si processing time 10;
-Clientul 13 are arrival time 15 si processing time 5;
 Lista terminata.
 
 
 Current time 15 :
 
 
-Serverul 1, are Waiting Time: 44)
+Serverul 1, are Waiting Time: 11)
 
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 12 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
+La acest server avem: Clientul 10, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 48)
+Serverul 2, are Waiting Time: 9)
 
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 8 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 3 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 50)
+Serverul 3, are Waiting Time: 10)
 
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 2 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
@@ -657,32 +604,25 @@ Lista terminata.
 Current time 16 :
 
 
-Serverul 1, are Waiting Time: 43)
+Serverul 1, are Waiting Time: 10)
 
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 11 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 47)
+Serverul 2, are Waiting Time: 8)
 
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 7 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 2 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 49)
+Serverul 3, are Waiting Time: 9)
 
-La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 1 ;
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 14, are Arrival Time: 4 si Processing Time: 1 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
@@ -694,31 +634,24 @@ Lista terminata.
 Current time 17 :
 
 
-Serverul 1, are Waiting Time: 42)
+Serverul 1, are Waiting Time: 9)
 
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 10 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 4 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 46)
+Serverul 2, are Waiting Time: 7)
 
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 6 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
+La acest server avem: Clientul 1, are Arrival Time: 3 si Processing Time: 1 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 48)
+Serverul 3, are Waiting Time: 8)
 
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 8 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
@@ -730,31 +663,23 @@ Lista terminata.
 Current time 18 :
 
 
-Serverul 1, are Waiting Time: 41)
+Serverul 1, are Waiting Time: 8)
 
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 9 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
+La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 3 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 45)
+Serverul 2, are Waiting Time: 6)
 
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 5 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 47)
+Serverul 3, are Waiting Time: 7)
 
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 7 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 2 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
@@ -766,243 +691,23 @@ Lista terminata.
 Current time 19 :
 
 
-Serverul 1, are Waiting Time: 40)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 8 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 44)
-
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 4 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 46)
-
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 6 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 20 :
-
-
-Serverul 1, are Waiting Time: 39)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 7 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 43)
-
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 3 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 45)
-
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 5 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 21 :
-
-
-Serverul 1, are Waiting Time: 38)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 6 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 42)
-
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 2 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 44)
-
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 4 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 22 :
-
-
-Serverul 1, are Waiting Time: 37)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 5 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 41)
-
-La acest server avem: Clientul 10, are Arrival Time: 5 si Processing Time: 1 ;
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 43)
-
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 3 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 23 :
-
-
-Serverul 1, are Waiting Time: 36)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 4 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 40)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 10 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 42)
-
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 2 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 24 :
-
-
-Serverul 1, are Waiting Time: 35)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 3 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 39)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 9 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 41)
-
-La acest server avem: Clientul 4, are Arrival Time: 6 si Processing Time: 1 ;
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 25 :
-
-
-Serverul 1, are Waiting Time: 34)
+Serverul 1, are Waiting Time: 7)
 
 La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 2 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
+La acest server avem: Clientul 19, are Arrival Time: 5 si Processing Time: 5 ;
 -------------------------------------------------------------------------
 
-Serverul 2, are Waiting Time: 38)
+Serverul 2, are Waiting Time: 5)
 
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 8 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
+La acest server avem: Clientul 5, are Arrival Time: 4 si Processing Time: 1 ;
+La acest server avem: Clientul 2, are Arrival Time: 4 si Processing Time: 4 ;
 -------------------------------------------------------------------------
 
-Serverul 3, are Waiting Time: 40)
+Serverul 3, are Waiting Time: 6)
 
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 12 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
+La acest server avem: Clientul 9, are Arrival Time: 4 si Processing Time: 1 ;
+La acest server avem: Clientul 20, are Arrival Time: 5 si Processing Time: 2 ;
+La acest server avem: Clientul 4, are Arrival Time: 5 si Processing Time: 3 ;
 -------------------------------------------------------------------------
 
 Servere terminate.
@@ -1011,461 +716,9 @@ Lista actuala de clienti ce nu au intrat pe servere:
 Lista terminata.
 
 
-Current time 26 :
-
-
-Serverul 1, are Waiting Time: 33)
-
-La acest server avem: Clientul 12, are Arrival Time: 4 si Processing Time: 1 ;
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 37)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 7 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 39)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 11 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 27 :
-
-
-Serverul 1, are Waiting Time: 32)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 14 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 36)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 6 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 38)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 10 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 28 :
-
-
-Serverul 1, are Waiting Time: 31)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 13 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 35)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 5 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 37)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 9 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 29 :
-
-
-Serverul 1, are Waiting Time: 30)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 12 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 34)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 4 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 36)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 8 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 30 :
-
-
-Serverul 1, are Waiting Time: 29)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 11 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 33)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 3 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 35)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 7 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 31 :
-
-
-Serverul 1, are Waiting Time: 28)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 10 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 32)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 2 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 34)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 6 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 32 :
-
-
-Serverul 1, are Waiting Time: 27)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 9 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 31)
-
-La acest server avem: Clientul 18, are Arrival Time: 7 si Processing Time: 1 ;
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 33)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 5 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 33 :
-
-
-Serverul 1, are Waiting Time: 26)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 8 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 30)
-
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 32)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 4 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 34 :
-
-
-Serverul 1, are Waiting Time: 25)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 7 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 29)
-
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 5 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 31)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 3 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 35 :
-
-
-Serverul 1, are Waiting Time: 24)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 6 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 28)
-
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 4 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 30)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 2 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 36 :
-
-
-Serverul 1, are Waiting Time: 23)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 5 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 27)
-
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 3 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 29)
-
-La acest server avem: Clientul 8, are Arrival Time: 8 si Processing Time: 1 ;
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 37 :
-
-
-Serverul 1, are Waiting Time: 22)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 4 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 26)
-
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 2 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 28)
-
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 13 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 38 :
-
-
-Serverul 1, are Waiting Time: 21)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 3 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 25)
-
-La acest server avem: Clientul 7, are Arrival Time: 9 si Processing Time: 1 ;
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 27)
-
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 12 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Current time 39 :
-
-
-Serverul 1, are Waiting Time: 20)
-
-La acest server avem: Clientul 15, are Arrival Time: 9 si Processing Time: 2 ;
-La acest server avem: Clientul 20, are Arrival Time: 12 si Processing Time: 10 ;
-La acest server avem: Clientul 13, are Arrival Time: 15 si Processing Time: 5 ;
-La acest server avem: Clientul 1, are Arrival Time: 15 si Processing Time: 3 ;
--------------------------------------------------------------------------
-
-Serverul 2, are Waiting Time: 24)
-
-La acest server avem: Clientul 2, are Arrival Time: 10 si Processing Time: 8 ;
-La acest server avem: Clientul 14, are Arrival Time: 13 si Processing Time: 6 ;
-La acest server avem: Clientul 6, are Arrival Time: 15 si Processing Time: 10 ;
--------------------------------------------------------------------------
-
-Serverul 3, are Waiting Time: 26)
-
-La acest server avem: Clientul 11, are Arrival Time: 10 si Processing Time: 11 ;
-La acest server avem: Clientul 3, are Arrival Time: 13 si Processing Time: 15 ;
--------------------------------------------------------------------------
-
-Servere terminate.
-
-Lista actuala de clienti ce nu au intrat pe servere:
-Lista terminata.
-
-
-Average timpul de service: 5.55 ;
-Peak hour : 16 ;
-Average timpul de waiting: 16.45 ;
+Average timpul de service: 2.55 ;
+Peak hour : 19 ;
+Average timpul de waiting: 8.25 ;
 
 
 

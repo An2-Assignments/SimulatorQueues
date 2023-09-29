@@ -40,6 +40,7 @@ public class SimulationManager implements Runnable
 
     //Am selectat shortest time, se putea ca strategie si shortest queue;
     public SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_TIME;
+    //public SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_QUEUE;
 
     //Avem un scheduler, si o lista de taskuri generate random: (de o metoda din aceasta clasa)
     private Scheduler scheduler;
